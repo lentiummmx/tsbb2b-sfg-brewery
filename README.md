@@ -1,4 +1,7 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/tsbb2b-sfg-brewery.svg?style=svg)](https://circleci.com/gh/springframeworkguru/tsbb2b-sfg-brewery)
+**master**:
+[![lentiummmx](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery.svg?style=svg)](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery)
+| **current-branch**:
+[![lentiummmx](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery/tree/feat%2Fs15.svg?style=shield)](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery?branch=feat%2Fs15)
 
 # Testing Spring Boot B2G - SFG Brewery
 
