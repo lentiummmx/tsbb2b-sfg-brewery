@@ -1,7 +1,7 @@
 **master**:
 [![lentiummmx](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery.svg?style=svg)](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery)
 | **current-branch**:
-[![lentiummmx](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery/tree/feat%2Fs15-v2.svg?style=shield)](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery?branch=feat%2Fs15-v2)
+[![lentiummmx](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery/tree/feat%2Fs16.svg?style=shield)](https://circleci.com/gh/lentiummmx/tsbb2b-sfg-brewery?branch=feat%2Fs16)
 
 # Testing Spring Boot B2G - SFG Brewery
 
@@ -20,3 +20,6 @@ For questions and help:
 * Or post in the Slack Community exclusive to the course.
 
 GitHub Issues will not be addressed.
+
+## Refs
+- see: https://github.com/json-path/JsonPath 
