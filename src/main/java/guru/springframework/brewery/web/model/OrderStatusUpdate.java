@@ -32,10 +32,12 @@ public class OrderStatusUpdate extends BaseItem {
 
     @Builder
     public OrderStatusUpdate(UUID id, Integer version, OffsetDateTime createdDate, OffsetDateTime lastModifiedDate,
-                             UUID orderId, OrderStatusEnum orderStatus) {
+                             UUID orderId, OrderStatusEnum orderStatus, String customerRef) {
         super(id, version, createdDate, lastModifiedDate);
         this.orderId = orderId;
         this.orderStatus = orderStatus;
+
+        this.customerRef = customerRef;
     }
 
     private UUID orderId;
